@@ -10,8 +10,8 @@
       "time": "12:00",
       "petsAllowed": "true",
       "organizer": "Jonas Jonaitis"
-    },
-                  {
+     },
+     {
       "id": 23452345,
       "category": "Gyvunu prieglauda",
       "title": "Siamo katino paemimo diena",
@@ -22,7 +22,7 @@
       "petsAllowed": "true",
       "organizer": "Jonas Jonaitis"
     },
-                  {
+    {
       "id": 23452345,
       "category": "Gyvunu prieglauda",
       "title": "Siamo katino paemimo diena",
@@ -33,7 +33,7 @@
       "petsAllowed": "true",
       "organizer": "Jonas Jonaitis"
     },
-                  {
+       {
       "id": 23452345,
       "category": "Gyvunu prieglauda",
       "title": "Siamo katino paemimo diena",
