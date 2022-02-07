@@ -2,14 +2,14 @@
       "events": [
       {
       "id": 23452345,
-      "category": 'Gyvunu prieglauda',
-      "title": 'Siamo katino paemimo diena',
-      "description": 'Naujo seimininko suradimas',
-      "location": 'Vilnius',
-      "date": 'January 28, 2022',
-      "time": '12:00',
+      "category": "Gyvunu prieglauda",
+      "title": "Siamo katino paemimo diena",
+      "description": "Naujo seimininko suradimas",
+      "location": "Vilnius",
+      "date": "January 28, 2022",
+      "time": "12:00",
       "petsAllowed": true,
-      "organizer": 'Jonas Jonaitis',
+      "organizer": "Jonas Jonaitis",
     },
       {
       "id": 2345234232,
